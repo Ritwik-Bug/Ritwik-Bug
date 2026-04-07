@@ -20,6 +20,9 @@ Developing and improving personal projects, including your portfolio website, wh
 
 Java, HTML, CSS, JavaScript, Git, GitHub, and modern development tools for building and deploying applications.
 
+
 * GitHub: [https://github.com/Ritwik-Bug](https://github.com/Ritwik-Bug)
+* Linkedin: https://www.linkedin.com/in/ritwik-thakur-a4ab28337/
 * Portfolio: [https://portfolio-ten-phi-57e837bhxx.vercel.app/](https://portfolio-ten-phi-57e837bhxx.vercel.app/)
+* gmail: ritwik450@gmail.com
 
