@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Who am I?**
+A developer focused on building practical, user-friendly applications with strong problem-solving skills and a continuous learning mindset.
+
+**What am I currently working on?**
+Developing and improving personal projects, including your portfolio website, while strengthening your skills in Java and web development.
+
+**What tools do I use?**
+Java, HTML, CSS, JavaScript, Git, GitHub, and modern development tools for building and deploying applications.
+
+**How to reach me?**
+
+* GitHub: [https://github.com/Ritwik-Bug](https://github.com/Ritwik-Bug)
+* Portfolio: [https://portfolio-ten-phi-57e837bhxx.vercel.app/](https://portfolio-ten-phi-57e837bhxx.vercel.app/)
+
